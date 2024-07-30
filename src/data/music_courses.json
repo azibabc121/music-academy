@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Beginner Guitar",
+            "slug": "beginner-guitar",
+            "description": "Learn the basics of playing guitar with our beginner course.",
+            "price": 99.99,
+            "instructor": "John Smith",
+            "isFeatured": true,
+            "image": "/courses/beginner-guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Advanced Piano",
+            "slug": "advanced-piano",
+            "description": "Take your piano skills to the next level with our advanced course.",
+            "price": 149.99,
+            "instructor": "Jane Doe",
+            "isFeatured": false,
+            "image": "/courses/advanced-piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Drumming Essentials",
+            "slug": "drumming-essentials",
+            "description": "Master the essentials of drumming in this comprehensive course.",
+            "price": 89.99,
+            "instructor": "Mike Johnson",
+            "isFeatured": true,
+            "image": "/courses/drumming-essentials.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Violin for Beginners",
+            "slug": "violin-for-beginners",
+            "description": "Start your violin journey with our beginner-friendly course.",
+            "price": 109.99,
+            "instructor": "Emily Davis",
+            "isFeatured": false,
+            "image": "/courses/violin-for-beginners.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Jazz Saxophone",
+            "slug": "jazz-saxophone",
+            "description": "Learn to play jazz saxophone like a pro with this course.",
+            "price": 129.99,
+            "instructor": "Dave Brown",
+            "isFeatured": true,
+            "image": "/courses/jazz-saxophone.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Vocal Training",
+            "slug": "vocal-training",
+            "description": "Enhance your vocal skills with professional training.",
+            "price": 99.99,
+            "instructor": "Sarah Wilson",
+            "isFeatured": false,
+            "image": "/courses/vocal-training.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Flute Mastery",
+            "slug": "flute-mastery",
+            "description": "Achieve mastery of the flute with this detailed course.",
+            "price": 119.99,
+            "instructor": "Chris Lee",
+            "isFeatured": true,
+            "image": "/courses/flute-mastery.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Bass Guitar Techniques",
+            "slug": "bass-guitar-techniques",
+            "description": "Learn advanced techniques for playing bass guitar.",
+            "price": 139.99,
+            "instructor": "Anna Thompson",
+            "isFeatured": false,
+            "image": "/courses/bass-guitar-techniques.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Songwriting Basics",
+            "slug": "songwriting-basics",
+            "description": "Discover the fundamentals of writing your own songs.",
+            "price": 79.99,
+            "instructor": "Mark Robinson",
+            "isFeatured": true,
+            "image": "/courses/songwriting-basics.jpg"
+        }
+    ]
+}
